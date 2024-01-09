@@ -3,10 +3,10 @@
 ## Project Objectives
 
 ### Overview
-In this project, we apply Marketing Mix Modeling (MMM) to analyze a comprehensive dataset sourced from [jamesrawlins1000's GitHub repository](https://github.com/jamesrawlins1000/Market-mix-modelling-data). Our primary goals are twofold: understanding the ROI of different marketing channels and predicting demand. The analysis will provide insights into the effectiveness of various advertising strategies and inform demand forecasting.
+In this project, I apply Marketing Mix Modeling (MMM) to analyze a comprehensive dataset sourced from [jamesrawlins1000's GitHub repository](https://github.com/jamesrawlins1000/Market-mix-modelling-data). My primary goals are twofold: understanding the ROI of different marketing channels and predicting demand. The analysis will provide insights into the effectiveness of various advertising strategies and inform demand forecasting.
 
-### Data Source Acknowledgement
-We extend our gratitude to [jamesrawlins1000](https://github.com/jamesrawlins1000) for compiling and sharing this valuable dataset, which forms the backbone of our analysis. It encompasses detailed records of demand, sales, and advertising expenditures across multiple channels in Shenzhen city, comprising 2211 observations and 18 variables.
+### Data Source & Acknowledgement
+I extend my gratitude to [jamesrawlins1000](https://github.com/jamesrawlins1000) for compiling and sharing this valuable dataset, which forms the backbone of our analysis. It encompasses detailed records of demand, sales, and advertising expenditures across multiple channels in Shenzhen city for some unnamed organisation/firm, comprising 2211 observations and 18 variables.
 
 ### Objectives
 1. **Understanding ROI of Different Marketing Channels:**
